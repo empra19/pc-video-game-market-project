@@ -4,7 +4,7 @@ The purpose of this project is to use various unsupervised learning methods to c
 
 Data was sourced from Steam, the largest PC gaming storefront and Metacritic, the foremost video game review aggregation site combining market metrics (Price, Sales) with reviewer feedback (user and critic scores).
 
-The analysis successfully identified distinct clusters of games, identify the important features for the categorisation (release date, critic score, % positive reviews on Steam), and classify the characteristics of each cluster in terms of the data. These clusters can be used to improve game recommendations, market analysis and genre classification.
+The analysis successfully identified distinct clusters of games, key features for the categorisation and classified the characteristics of each cluster in terms of the features (see below). These clusters can be used in game recommendation systems for a better user experience.
 
 <h3>Cluster Visualisation using Principal Component Analysis</h3>
 
