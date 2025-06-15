@@ -1,3 +1,5 @@
+<h1>Unsupervised Learning on PC Video Game Market Data</h1>
+
 The purpose of this project is to use various unsupervised learning methods to categorise PC Games based on multi-dimensional data without pre-defined labels. This allows for the discovery of hidden relationships within gaming data.
 
 Data was sourced from Steam, the largest PC gaming storefront and Metacritic, the foremost video game review aggregation site combining market metrics (Price, Sales) with reviewer feedback (user and critic scores).
