@@ -4,4 +4,8 @@ Data was sourced from Steam, the largest PC gaming storefront and Metacritic, th
 
 The analysis successfully identified distinct clusters of games, identify the important features for the categorisation (release date, critic score, % positive reviews on Steam), and classify the characteristics of each cluster in terms of the data. These clusters can be used to improve game recommendations, market analysis and genre classification.
 
-![Cluster Visualization using Principal Component Analysis](graphs/Hierarchical Clustering Visualisation PCA ED=4.png)
+<br>
+<h3>Cluster Visualisation using Principal Component Analysis</h3>
+
+![Cluster Visualization using Principal Component Analysis](graphs/cluster_pca.png)
+<br>
