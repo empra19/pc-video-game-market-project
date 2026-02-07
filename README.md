@@ -15,8 +15,8 @@ Data was sourced from Steam, the largest PC gaming storefront, and Metacritic, t
 
 The analysis successfully identified distinct clusters of games, key features driving the categorisation, and characterized each cluster in terms of these features. These clusters can be used in game recommendation systems for a better user experience. Compared to a simple genre-based recommendation system, the clustering increased the diversity of recommendations by 20%.
 
-[View the full project report here](FINAL%20REPORT_1.pdf)
-[View the results section here](FINAL%20REPORT_1.pdf#page=X)
+- [View the full project report here](FINAL%20REPORT_1.pdf)
+- [View the results section here](FINAL%20REPORT_1.pdf#page=X)
 
 ## Visualisations
 
