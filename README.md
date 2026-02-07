@@ -1,16 +1,28 @@
-<h1>Unsupervised Learning on PC Video Game Market Data</h1>
+# Unsupervised Learning on PC Video Game Market Data
 
-The purpose of this project is to use various unsupervised learning methods to categorise PC Games based on multi-dimensional data without pre-defined labels. This allows for the discovery of hidden relationships within gaming data.
+## Overview
 
-Data was sourced from Steam, the largest PC gaming storefront and Metacritic, the foremost video game review aggregation site combining market metrics (Price, Sales) with reviewer feedback (user and critic scores).
+The purpose of this project is to use various unsupervised learning methods to categorise PC games based on multi-dimensional data without pre-defined labels. This allows for the discovery of hidden relationships within gaming data.
 
-The analysis successfully identified distinct clusters of games, key features for the categorisation and classified the characteristics of each cluster in terms of the features (see below). These clusters can be used in game recommendation systems for a better user experience.
+## Data Sources
 
-<h3>Cluster Visualisation using Principal Component Analysis</h3>
+Data was sourced from Steam, the largest PC gaming storefront, and Metacritic, the foremost video game review aggregation site, combining market metrics (price, sales) with reviewer feedback (user and critic scores).
+
+- [Steam Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data)  
+- [Metacritic Dataset](https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data)
+
+## Key Findings
+
+The analysis successfully identified distinct clusters of games, key features driving the categorisation, and characterized each cluster in terms of these features. These clusters can be used in game recommendation systems for a better user experience. Compared to a simple genre-based recommendation system, the clustering increased the diversity of recommendations by 20%.
+
+[View the full project report here](FINALRESULTS.pdf)
+
+## Visualisations
+
+### Cluster Visualisation using Principal Component Analysis
 
 ![Cluster Visualisation using Principal Component Analysis](graphs/cluster_pca.png)
-<br>
-<h3>Feature Importance for Clustering</h3>
+
+### Feature Importance for Clustering
 
 ![Feature Importance](graphs/feature_importance.png)
-<br>
