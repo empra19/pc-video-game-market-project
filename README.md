@@ -24,10 +24,10 @@ The analysis successfully identified distinct clusters of games, key features dr
 
 This graph visualises the seven clusters after applying PCA to reduce the feature space to two dimensions for visualisation purposes. While there appears to be some overlap due to dimensional reduction, the high silhouette score (0.65) confirms that the clusters are well-separated in the full feature space.
 
-![Cluster Visualisation using Principal Component Analysis](graphs/cluster_pca.png)
+![Cluster Visualisation using Principal Component Analysis](graphs/Final Report Graphs/cluster_pca.png)
 
 ### Feature Importance for Clustering
 
 Release date emerged as the most important feature, followed by percentage of positive Steam reviews and Metacritic critic score. The prominence of release date likely reflects technological and graphical advances over time - games from similar periods naturally share common characteristics and design philosophies shaped by the technology available when they were developed.
 
-![Feature Importance](graphs/feature_importance.png)
+![Feature Importance](graphs/Final Report Graphs/feature_importance.png)
